@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\casey\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\ROCHELLEW\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\casey\\Documents\\GitHub\\CSharpCode\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\ROCHELLEW\\Documents\\GitHub\\CSharpCode\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\casey\\Documents\\GitHub\\CSharpCode\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
-      "packagesPath": "C:\\Users\\casey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\casey\\Documents\\GitHub\\CSharpCode\\HelloWorld\\HelloWorld\\obj\\",
+      "projectPath": "C:\\Users\\ROCHELLEW\\Documents\\GitHub\\CSharpCode\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "packagesPath": "C:\\Users\\ROCHELLEW\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ROCHELLEW\\Documents\\GitHub\\CSharpCode\\HelloWorld\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\casey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ROCHELLEW\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
