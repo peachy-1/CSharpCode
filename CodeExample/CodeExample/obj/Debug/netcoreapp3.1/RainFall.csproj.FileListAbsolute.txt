@@ -1,0 +1,13 @@
+C:\Users\ROCHELLEW\Downloads\CodeExample\CodeExample\bin\Debug\netcoreapp3.1\RainFall.exe
+C:\Users\ROCHELLEW\Downloads\CodeExample\CodeExample\bin\Debug\netcoreapp3.1\RainFall.deps.json
+C:\Users\ROCHELLEW\Downloads\CodeExample\CodeExample\bin\Debug\netcoreapp3.1\RainFall.runtimeconfig.json
+C:\Users\ROCHELLEW\Downloads\CodeExample\CodeExample\bin\Debug\netcoreapp3.1\RainFall.runtimeconfig.dev.json
+C:\Users\ROCHELLEW\Downloads\CodeExample\CodeExample\bin\Debug\netcoreapp3.1\RainFall.dll
+C:\Users\ROCHELLEW\Downloads\CodeExample\CodeExample\bin\Debug\netcoreapp3.1\RainFall.pdb
+C:\Users\ROCHELLEW\Downloads\CodeExample\CodeExample\obj\Debug\netcoreapp3.1\RainFall.AssemblyInfoInputs.cache
+C:\Users\ROCHELLEW\Downloads\CodeExample\CodeExample\obj\Debug\netcoreapp3.1\RainFall.AssemblyInfo.cs
+C:\Users\ROCHELLEW\Downloads\CodeExample\CodeExample\obj\Debug\netcoreapp3.1\RainFall.csproj.CoreCompileInputs.cache
+C:\Users\ROCHELLEW\Downloads\CodeExample\CodeExample\obj\Debug\netcoreapp3.1\RainFall.dll
+C:\Users\ROCHELLEW\Downloads\CodeExample\CodeExample\obj\Debug\netcoreapp3.1\RainFall.pdb
+C:\Users\ROCHELLEW\Downloads\CodeExample\CodeExample\obj\Debug\netcoreapp3.1\RainFall.genruntimeconfig.cache
+C:\Users\ROCHELLEW\Downloads\CodeExample\CodeExample\obj\Debug\netcoreapp3.1\RainFall.csproj.AssemblyReference.cache
